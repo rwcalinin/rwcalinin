@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rwcalinin
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS
+- 📫 How to reach me: rwcalinin@gmail.com
